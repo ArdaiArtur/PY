@@ -4,10 +4,11 @@ import ListNode
 
 class Solution(object):
     def deleteNode(self,node)  : 
-        nou=node.next
-        node.val=nou.val
-        node.next=nou.next
-        nou.next=None
+        n=ListNode
+        n=node.next
+        node.val=n.val
+        node.next=n.next
+        n.next=None
         del(node)
         
 

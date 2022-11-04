@@ -14,6 +14,6 @@ print(now)
 #pip install python-dateutil
 #pip freeze
 #deactivate
-#
+#pip install <name of package> --upgrade
 #
 #

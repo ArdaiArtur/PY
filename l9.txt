@@ -1,0 +1,18 @@
+There are many libraries and frameworks for machine learning in Python, such as scikit-learn, TensorFlow, and PyTorch, to name 
+a few.
+
+Here's an example of how you can use the scikit-learn library to train a simple linear regression model on some sample
+ data:
+
+In this example, we use the make_regression() function from sklearn.datasets to generate a sample data for regression. 
+The generated data is then split into training and test sets using the train_test_split() function. Next, we create an instance 
+of the LinearRegression model, and we train the model on the training data using the fit() method. Finally, we evaluate the performance
+ of the model on the test data using the score() method and print the coefficient of determination R^2.
+
+scikit-learn library provides many other machine learning models like LogisticRegression, DecisionTreeClassifier, 
+RandomForestClassifier, KMeans, and more. You can also use scikit-learn for pre-processing and feature extraction steps before
+ applying the machine learning models.
+
+Please let me know if you have any more questions about machine learning in Python, or if you would like to see examples of 
+using other libraries or frameworks.
+

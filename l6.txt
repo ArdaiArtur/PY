@@ -1,0 +1,9 @@
+ceva text pt l6 
+nu are sens 
+<i class="fa fa-certificate
+adasdasdsad
+" aria-hidden="true"></i>
+<i class="fas fa-whatsapp-square fa-sm fa-fw"></i>
+<div class="container">
+    
+</div>
